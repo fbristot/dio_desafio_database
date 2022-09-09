@@ -1,0 +1,12 @@
+comandos básicos do Git:
+
+git status - status dos arquivos
+git add . - adicionar os arquivos na nuvem
+git commit -m "inclusão do arquivo anotações" - fazer o upload na nuvem e " " incluir anotações
+git push origin main ou git push origin master - enviar os commits para a nuvem
+ls. - mostra os arquivos na pasta
+ctrl + l - limpa a tela
+
+
+
+
