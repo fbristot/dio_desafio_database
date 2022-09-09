@@ -7,7 +7,7 @@ comandos básicos do Git:
 - ctrl + l - limpa a tela
 
 
-subindo arquivos:
+passo a passo para fazer upload:
 - git status -  deve identificar o arquivo/pasta 
 - git add . - sobe os arquivos
 - git status - irá reconhecer new file
