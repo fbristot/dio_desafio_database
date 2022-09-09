@@ -8,5 +8,11 @@ ls. - mostra os arquivos na pasta
 ctrl + l - limpa a tela
 
 
-
+subindo arquivos:
+- git status -  deve identificar o arquivo/pasta 
+- git add . - sobe os arquivos
+- git status - irá reconhecer new file
+- git commit -m "comentario" - irá commita o arquivo junto ao comentário
+- git status - irá sinalizar para fazer o push
+- git push origin main - irá finalizar o upload
 
